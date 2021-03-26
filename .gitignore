@@ -1,0 +1,4 @@
+.venv
+.vscode
+web-client/node_modules
+web-client/public
